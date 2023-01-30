@@ -1,0 +1,12 @@
+Istanbul SAW 438
+Izmir ADB 538
+Antalya AYT 516
+Mugla BJV 728
+Adana ADA 626
+Samsun SZF 518
+Paris-France ORY 3252
+Berlin-Germany BER 2905
+Roma-Italy FCO 2345
+NewYork-US JFK 11856
+Toronto-Canada YTZ 11249
+
